@@ -1,98 +1,137 @@
-# Hi, I'm Matija Radulovic 👋
+<div align="center">
+
+# Matija Radulovic
 
 ### Future Business & Management Student  
-### Interested in AI, Entrepreneurship & Digital Innovation
+### AI • Entrepreneurship • Startups • Digital Innovation
+
+<br>
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/matija-radulovi%C4%87-3367b8391/]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="SOON!!!">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:matija.radulovic.007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a technical high school student from Serbia specializing in Mechatronics, with strong interests in business, entrepreneurship, artificial intelligence, and startup development.
+I am a technical high school student from Serbia specializing in **Mechatronics**, with strong interests in **business, entrepreneurship, artificial intelligence, startups, and digital innovation**.
 
 I enjoy building modern digital projects, exploring AI automation systems, and developing practical business-oriented solutions through independent learning and hands-on experimentation.
 
-My long-term goal is to combine technology and business to create impactful startups, scalable systems, and innovative digital experiences.
+My long-term goal is to combine technology and business to create impactful startups, scalable systems, and modern digital experiences.
 
 ---
 
-## 💡 Current Focus
+# ⚡ Current Focus
 
 - AI Automation Workflows  
 - Business & Management  
 - Entrepreneurship  
 - Startup Development  
 - Digital Business Solutions  
-- Modern UI/UX Design  
-- Workflow Automation Systems  
+- Workflow Automation  
+- Modern UI/UX  
 
 ---
 
-## 🛠 Featured Projects
+# 🛠 Featured Projects
 
-### 🤖 Horizont AI
+## 🤖 Horizont AI
 Modern AI agency website focused on automation, digital business solutions, and premium user experience.
 
-### 🦷 AI Dental Receptionist
+## 🦷 AI Dental Receptionist
 AI-powered workflow concept for dental clinic communication, appointment handling, and customer interaction automation.
 
-### 📈 AI Lead Qualification Workflow
+## 📈 AI Lead Qualification Workflow
 Automation system designed to improve lead qualification, customer communication, and workflow efficiency.
 
-### 🌐 Personal Portfolio Website
-Premium personal portfolio built to showcase projects, skills, and long-term entrepreneurial goals.
-
-### 🚀 Startup Concepts
-Collection of startup ideas, landing page concepts, and business-oriented digital product experiments.
+## 🌐 Personal Portfolio Website
+Premium personal portfolio built to showcase projects, skills, and entrepreneurial goals.
 
 ---
 
-## ⚡ Skills
+# 🧠 Skills
 
-### Business
-- Entrepreneurship
-- Business Development
-- Business Strategy
-- Digital Marketing
+### Business & Entrepreneurship
 
-### Technology
-- AI Tools
-- Workflow Automation
-- Modern Web Technologies
-- UI/UX Principles
+- Entrepreneurship  
+- Business Development  
+- Digital Marketing  
+- Business Strategy  
+
+### Technology & AI
+
+- AI Tools  
+- Workflow Automation  
+- UI/UX Principles  
+- Modern Web Technologies  
 
 ### Soft Skills
-- Communication
-- Problem Solving
-- Adaptability
-- Critical Thinking
+
+- Communication  
+- Problem Solving  
+- Adaptability  
+- Critical Thinking  
 
 ---
 
-## 🌍 Languages
+# 🌍 Languages
 
-- Serbo-Croatian - Native
-- English — Fluent
-- German — B1 (currently improving)
-
----
-
-## 🎯 Long-Term Goals
-
-- Study Business & Management internationally
-- Build impactful startup projects
-- Combine AI and business solutions
-- Develop practical international experience
-- Create scalable digital systems and businesses
+| Language | Level |
+|---|---|
+| English | Fluent |
+| German | B1 |
+| Serbian | Native |
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Long-Term Goals
 
-### LinkedIn
-[https://www.linkedin.com/in/matija-radulovi%C4%87-3367b8391/]
+- Study Business & Management internationally  
+- Build impactful startup projects  
+- Combine AI and business solutions  
+- Develop international practical experience  
+- Create scalable digital systems and businesses  
 
-### Portfolio Website
-[Coming soon!!!]
+---
 
-### Email
-[matija.radulovic.007@gmail.com]
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/matija-radulovi%C4%87-3367b8391/]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="SOON!!!">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+  </a>
+
+  <a href="mailto:matija.radulovic.007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>

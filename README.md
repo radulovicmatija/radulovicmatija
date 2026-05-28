@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matija Radulovic
+# 🐐 Matija Radulovic
 
 ### Future Business & Management Student  
 ### AI • Entrepreneurship • Startups • Digital Innovation

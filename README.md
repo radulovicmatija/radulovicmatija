@@ -49,7 +49,7 @@ My long-term goal is to combine technology and business to create impactful star
 
 # 🛠 Featured Projects
 
-## 🤖 Horizont AI
+## 🤖 Horizen AI
 Modern AI agency website focused on automation, digital business solutions, and premium user experience.
 
 ## 🦷 AI Dental Receptionist

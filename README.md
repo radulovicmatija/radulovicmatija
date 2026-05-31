@@ -127,7 +127,7 @@ Premium personal portfolio built to showcase projects, skills, and entrepreneuri
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="SOON!!!">
+  <a href="https://matijaportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
   </a>
 

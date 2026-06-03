@@ -52,8 +52,8 @@ My long-term goal is to combine technology and business to create impactful star
 ## 🤖 Horizen AI
 Modern AI agency website focused on automation, digital business solutions, and premium user experience.
 
-## 🦷 AI Dental Receptionist
-AI-powered workflow concept for dental clinic communication, appointment handling, and customer interaction automation.
+## 📞 AI Receptionist
+AI-powered workflow concept for Horizen AI's communication, appointment handling, and customer interaction automation.
 
 ## 📈 AI Lead Qualification Workflow
 Automation system designed to improve lead qualification, customer communication, and workflow efficiency.
